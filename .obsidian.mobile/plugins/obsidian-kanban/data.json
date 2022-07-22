@@ -1,0 +1,6 @@
+{
+  "prepend-archive-date": true,
+  "show-relative-date": true,
+  "date-display-format": "LLL",
+  "date-format": "LLL"
+}

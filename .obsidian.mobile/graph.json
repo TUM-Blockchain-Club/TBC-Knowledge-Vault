@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Computer Science/Computer Networking\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701214
+      }
+    },
+    {
+      "query": "path:\"People Knowledge\"",
+      "color": {
+        "a": 1,
+        "rgb": 7788124
+      }
+    },
+    {
+      "query": "path:Places",
+      "color": {
+        "a": 1,
+        "rgb": 6059222
+      }
+    },
+    {
+      "query": "path:Organisations",
+      "color": {
+        "a": 1,
+        "rgb": 12737750
+      }
+    },
+    {
+      "query": "path:Projects",
+      "color": {
+        "a": 1,
+        "rgb": 14054492
+      }
+    },
+    {
+      "query": "tag:#Concept",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "tag:#Medicine",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 3.35769230769231,
+  "collapse-forces": true,
+  "centerStrength": 0.265385841836735,
+  "repelStrength": 11.7713647959184,
+  "linkStrength": 1,
+  "linkDistance": 216,
+  "scale": 0.11612681373985412,
+  "close": true
+}
