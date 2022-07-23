@@ -1,93 +1,22 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"People Knowledge\"",
-      "color": {
-        "a": 1,
-        "rgb": 7788124
-      }
-    },
-    {
-      "query": "path:Places",
-      "color": {
-        "a": 1,
-        "rgb": 9414143
-      }
-    },
-    {
-      "query": "path:Organisations",
-      "color": {
-        "a": 1,
-        "rgb": 67521
-      }
-    },
-    {
-      "query": "path:Projects",
-      "color": {
-        "a": 1,
-        "rgb": 14054492
-      }
-    },
-    {
-      "query": "tag:#Lecture",
-      "color": {
-        "a": 1,
-        "rgb": 255
-      }
-    },
-    {
-      "query": "tag:#Knowledgebase",
-      "color": {
-        "a": 1,
-        "rgb": 15400960
-      }
-    },
-    {
-      "query": "tag:#Concept",
-      "color": {
-        "a": 1,
-        "rgb": 11361494
-      }
-    },
-    {
-      "query": "tag:#Person",
-      "color": {
-        "a": 1,
-        "rgb": 7788124
-      }
-    },
-    {
-      "query": "tag:#Organisation",
-      "color": {
-        "a": 1,
-        "rgb": 2324253
-      }
-    },
-    {
-      "query": "tag:#Place",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.03274529569892,
-  "lineSizeMultiplier": 1.47935987903226,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.265385841836735,
-  "repelStrength": 11.7713647959184,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 216,
-  "scale": 0.0940639632507801,
-  "close": true
+  "linkDistance": 250,
+  "scale": 1,
+  "close": false
 }

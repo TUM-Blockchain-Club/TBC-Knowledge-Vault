@@ -1,7 +1,4 @@
-.obsidian/workspace
-.obsidian.mobile/workspace
-.obsidian/cache
-.obsidian.mobile/cache
-
+.obsidian
+.obsidian.mobile
 .trash/
 .DS_Store
