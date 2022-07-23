@@ -1,4 +1,4 @@
-.obsidian
-.obsidian.mobile
+.obsidian/
+.obsidian.mobile/
 .trash/
 .DS_Store
