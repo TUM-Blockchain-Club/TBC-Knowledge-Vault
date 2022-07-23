@@ -23,7 +23,7 @@ We've decided to go with obsidian for our knowledeg base, because it gives us th
 
 To browse the TBC Knowledge Vault, dowload obsidian and simply open the directory you've cloned in [Cloning the Vault](#Cloning the Vault).
 
-If you're new to obsidian, you can use our [Obsidian Configuration](./Obsidian_Configuration) as a guide to get started with some use full plugins. 
+If you're new to obsidian, you can use our [Obsidian Configuration](./Obsidian_Configuration.md) as a guide to get started with some use full plugins. 
 
 ### Website
 We're planning to host the TBC Knowldege Vault as a webiste at some point in the future. Stay tuned for more! 
@@ -35,7 +35,7 @@ This is still work in progress, please check out later!
 
 ## Contributing
 Hi there, thanks for sharing your knowledge with the community! 
-To contribute to the vault please first check out our [code of conduct](Code_of_Conduct) and our contribution [styleguide](./Styleguide). 
+To contribute to the vault please first check out our [code of conduct](Code_of_Conduct.md) and our contribution [styleguide](./Styleguide.md). 
 
 ### Branches
 To manage contributions to the vault, we organise everything in topic branches. These branches refer to a specific set of labels, which correspond to a specific area of expertise. The labels are used inside the vault to easily search and find the thing you're looking for. 
