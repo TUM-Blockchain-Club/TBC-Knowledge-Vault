@@ -55,6 +55,3 @@ The Core Team will follow the internal guidelines of the TUM Blockchain Club in 
 
 
 This Code of Conduct is based on the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/de/version/2/0/code-of-conduct.
-
-
-Translated with www.DeepL.com/Translator (free version)
