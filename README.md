@@ -45,4 +45,5 @@ If you want to contribute to the knowledge vault, check out the different topic 
 ### Pull Requests
 To add your knowledge to the vault please create a pull requests to the review branch. We're then checking out your contribution and are going to merge it into the stable vault on the main branch. 
 
-
+# Stargazer
+[![Stargazers over time](https://starchart.cc/TUM-Blockchain-Club/TBC-Knowledge-Vault.svg)](https://starchart.cc/TUM-Blockchain-Club/TBC-Knowledge-Vault)
